@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(61, 53, 53);
+    margin: 15px;
+}
+
+#Navbar {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+button {
+    border-radius: 7px;
+}
+
+button:hover {
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(165, 71, 42);
+}
+
+.navforfirst2 {
+    padding: 0px 7px;
+    margin: 0px 7px;
+}
+
+.navfor3bar {
+    padding: 0px 7px;
+    margin-left:  965px;
+}
+
+
